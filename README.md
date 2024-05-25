@@ -1,15 +1,15 @@
 # Smart Farming - IOT Project
 ## Description
-This project aims to leverage IoT technologies to optimize farming practices. The smart farming system monitors various environmental factors and automates processes to improve crop yield and reduce resource usage
+This project aims to leverage IoT technologies to optimize farming practices. The smart farming system monitors various environmental factors and automates processes to improve crop yield and reduce resource usage.
 
 The Smart Farming System is an innovative and automated solution designed to enhance agricultural practices by integrating modern technologies. This system utilizes NodeMCU, DHT11 temperature and humidity sensor, soil moisture sensor, and an IoT-controlled motor to create a comprehensive smart farming environment.
-
+  - You can see the structure of this repository at : [Repository Structure](https://github.com/Hitesh2112/smart-farming-iot-project/blob/main/repo-Structure.md)
 
 ## Key Components
 - **NodeMCU**:
    - Serves as the central microcontroller responsible for data processing, sensor interfacing, and communication with the IoT platform.
    - ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/6ae7ef0f-6a08-407d-9207-9747448f3e44)
-
+   
 - **DHT11 Sensor**:
    - Monitors ambient temperature and humidity levels within the farming environment. This data is crucial for assessing the overall climate conditions that affect crop growth.
    - ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/7fa93c31-e486-4c4d-b710-2f901fe660c0)
