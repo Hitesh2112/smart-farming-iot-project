@@ -79,6 +79,25 @@ The Smart Farming System is an innovative and automated solution designed to enh
     -  Install the Arduino IDE and necessary libraries for NodeMCU and sensors.
     -  Upload the code to NodeMCU using the Arduino IDE.
 
+### Deployed platform (Website)
+The backend of the deployed page is implemented using PHP, ensuring robust data management and communication between the hardware components and the IoT platform, and is deployed at https://mycollegeproject.xyz/SmartIrrigation/login.
+ #### Tech Stack Used
+ ```
+.
+├───Frontend
+│    ├───HTML
+│    ├───CSS
+│    └───Javascript
+|
+├───Backend
+│    └───PHP
+└───DBMS
+      └───SQL to Import in DB
+
+ ```
+        
+
+
 ### Usage
 - Power on the NodeMCU.
 - Ensure that the NodeMCU is connected to the internet.
