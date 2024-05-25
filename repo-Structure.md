@@ -2,6 +2,7 @@
 ```
 Smart Farming IOT Project
 |   README.md
+|   repo-Structure.md
 │   API_KEY_API.php
 │   index.php
 │   KEY_UPDATE.php
