@@ -8,15 +8,15 @@ The Smart Farming System is an innovative and automated solution designed to enh
 ## Key Components
 - **NodeMCU**:
    - Serves as the central microcontroller responsible for data processing, sensor interfacing, and communication with the IoT platform.
-   - ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/6ae7ef0f-6a08-407d-9207-9747448f3e44)
+     ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/6ae7ef0f-6a08-407d-9207-9747448f3e44)
    
 - **DHT11 Sensor**:
    - Monitors ambient temperature and humidity levels within the farming environment. This data is crucial for assessing the overall climate conditions that affect crop growth.
-   - ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/7fa93c31-e486-4c4d-b710-2f901fe660c0)
+     ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/7fa93c31-e486-4c4d-b710-2f901fe660c0)
 
 - **Soil Moisture Sensor**:
    - Measures the moisture content in the soil, providing data for optimized irrigation control.
-   - ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/d7561e9e-b018-4938-b41a-b544f1de9e3b)
+     ![image](https://github.com/Hitesh2112/smart-farming-iot-project/assets/97521900/d7561e9e-b018-4938-b41a-b544f1de9e3b)
 
 - **IoT Platform**:
    - Enables real-time monitoring and control over the internet, allowing farmers to remotely access and manage the farm parameters.
