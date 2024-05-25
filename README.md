@@ -103,3 +103,11 @@ The backend of the deployed page is implemented using PHP, ensuring robust data 
 - Ensure that the NodeMCU is connected to the internet.
 - Access the IoT platform dashboard to monitor real-time data and control the motor.
 - The system will automatically manage irrigation based on soil moisture levels.
+
+
+## Acknowledgements
+Special thanks to my team mate Abdullah Jamil and our college seniors for their guidance and support throughout the development of this project.
+And the open-source community for providing the necessary tools and libraries.
+
+## Outro
+By integrating modern IoT technologies with traditional farming practices, the Smart Farming System aims to revolutionize agriculture, making it more efficient, sustainable, and accessible.
